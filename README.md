@@ -1,4 +1,6 @@
 # ReVanced Magisk Module
+[![Downloads](https://img.shields.io/badge/Download-2CA5E0?style=for-the-badge&logo=download&logoColor=white)](https://t.me/rvc_magisk)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
