@@ -21,22 +21,9 @@ exclusive-patches = true
 patcher-args = "-e 'Change header' -Oheader='premium*header' -e Theme -OdarkThemeBackgroundColor=@android:color/black -OlightThemeBackgroundColor=@android:color/system_neutral1_50 e- 'Hide Shorts components' -OhideShortsAppShortcut=true -OhideShortsWidget=true "
 
 
-#[YouTube]
-enabled = false
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 #[Music]
-enabled = false
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [GooglePhotos]
