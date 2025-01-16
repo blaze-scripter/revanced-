@@ -5,6 +5,7 @@ parallel-jobs = 1
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 # you can use rvmm-config-gen to generate a config
+
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
@@ -20,7 +21,7 @@ exclusive-patches = true
 patcher-args = "-e 'Change header' -Oheader='premium*header' -e Theme -OdarkThemeBackgroundColor=@android:color/black -OlightThemeBackgroundColor=@android:color/system_neutral1_50 e- 'Hide Shorts components' -OhideShortsAppShortcut=true -OhideShortsWidget=true "
 
 
-[YouTube]
+#[YouTube]
 enabled = false
 build-mode = "both"
 excluded-patches = ""
@@ -30,7 +31,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Music]
+#[Music]
 enabled = false
 build-mode = "both"
 arch = "both"
