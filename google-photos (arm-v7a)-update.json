@@ -1,6 +1,6 @@
 {
-  "version": "v7.22.0.739755607 (patches: 5.16.1)",
-  "versionCode": 18,
-  "zipUrl": "https://github.com/blaze-scripter/revanced-/releases/download/18/google-photos-revanced-magisk-v7.22.0.739755607-arm-v7a.zip",
+  "version": "v7.31.0.764984055 (patches: 5.26.0)",
+  "versionCode": 30,
+  "zipUrl": "https://github.com/blaze-scripter/revanced-/releases/download/30/google-photos-revanced-magisk-v7.31.0.764984055-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/blaze-scripter/revanced-/update/build.md"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "v20.12.46 (patches: 5.25.0)",
-  "versionCode": 29,
-  "zipUrl": "https://github.com/blaze-scripter/revanced-/releases/download/29/youtube-revanced-magisk-v20.12.46-all.zip",
+  "version": "v20.12.46 (patches: 5.26.0)",
+  "versionCode": 30,
+  "zipUrl": "https://github.com/blaze-scripter/revanced-/releases/download/30/youtube-revanced-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/blaze-scripter/revanced-/update/build.md"
 }
