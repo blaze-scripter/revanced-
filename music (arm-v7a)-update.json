@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches: 5.41.0)",
-  "versionCode": 50,
-  "zipUrl": "https://github.com/blaze-scripter/revanced-/releases/download/50/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches: 5.42.1)",
+  "versionCode": 52,
+  "zipUrl": "https://github.com/blaze-scripter/revanced-/releases/download/52/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/blaze-scripter/revanced-/update/build.md"
 }
